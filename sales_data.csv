@@ -1,0 +1,1001 @@
+Date,Product,Region,Salesperson,Quantity,Unit_Price,Total_Sales
+2023-11-24,Mouse,North,Frank,5,527.54,2637.7
+2023-03-13,Mouse,North,Eve,7,111.98,783.83
+2023-02-17,Monitor,South,Eve,10,101.75,1017.45
+2023-04-12,USB Cable,South,Diana,10,592.47,5924.72
+2023-01-04,Keyboard,West,Charlie,5,353.19,1765.93
+2023-06-22,Mouse,North,Diana,2,750.01,1500.02
+2023-06-26,Headphones,North,Frank,8,1095.64,8765.16
+2023-07-13,Mouse,East,Frank,10,1776.63,17766.31
+2023-07-05,Monitor,North,Alice,4,1557.48,6229.93
+2023-02-10,Monitor,North,Diana,5,934.15,4670.75
+2023-07-06,Keyboard,East,Charlie,4,1356.84,5427.37
+2023-12-26,Mouse,South,Eve,4,368.63,1474.54
+2023-07-14,Headphones,South,Frank,6,1693.56,10161.37
+2023-01-29,Monitor,North,Charlie,7,572.09,4004.66
+2023-04-19,Webcam,South,Frank,8,821.48,6571.86
+2023-11-26,Hard Drive,South,Charlie,3,530.92,1592.77
+2023-10-15,Headphones,West,Eve,7,755.89,5291.25
+2023-03-12,Hard Drive,North,Alice,2,348.04,696.08
+2023-03-23,USB Cable,North,Diana,7,1211.98,8483.88
+2023-08-28,Headphones,North,Frank,2,1379.34,2758.67
+2023-10-02,Headphones,East,Alice,5,897.79,4488.96
+2023-08-21,Laptop,East,Eve,3,1039.98,3119.94
+2023-02-24,Headphones,South,Bob,6,1536.9,9221.38
+2023-10-04,Laptop,East,Diana,1,268.14,268.14
+2023-07-05,Headphones,South,Alice,4,1762.12,7048.47
+2023-02-10,Mouse,West,Alice,9,1543.38,13890.39
+2023-03-07,Hard Drive,South,Charlie,9,1751.24,15761.2
+2023-08-05,Monitor,South,Frank,5,828.03,4140.17
+2023-12-10,Webcam,West,Eve,8,285.96,2287.67
+2023-04-26,Mouse,East,Alice,10,1130.15,11301.47
+2023-10-29,Monitor,North,Alice,1,496.44,496.44
+2023-01-17,Webcam,North,Eve,4,593.03,2372.12
+2023-09-06,Monitor,South,Frank,10,1173.61,11736.13
+2023-05-05,Hard Drive,West,Bob,2,239.02,478.03
+2023-08-09,Webcam,West,Diana,8,1734.48,13875.85
+2023-01-28,Mouse,North,Diana,6,1611.16,9666.93
+2023-02-25,Monitor,South,Bob,9,924.8,8323.17
+2023-08-05,Keyboard,East,Diana,4,1755.25,7020.99
+2023-02-08,Hard Drive,North,Alice,9,1680.25,15122.28
+2023-02-17,Monitor,South,Diana,8,988.65,7909.19
+2023-07-25,Laptop,South,Diana,1,1971.35,1971.35
+2023-05-16,Hard Drive,East,Diana,9,1340.65,12065.84
+2023-09-07,Keyboard,South,Charlie,4,1938.98,7755.93
+2023-10-24,Laptop,East,Alice,1,1189.15,1189.15
+2023-09-15,Keyboard,North,Eve,2,1710.12,3420.24
+2023-02-05,Mouse,South,Diana,2,1886.11,3772.22
+2023-10-19,Monitor,North,Eve,2,867.49,1734.98
+2023-10-26,Webcam,East,Bob,6,515.44,3092.63
+2023-07-22,Keyboard,East,Diana,6,1861.59,11169.51
+2023-02-07,Laptop,West,Eve,10,1992.39,19923.88
+2023-02-07,Monitor,East,Bob,6,1767.69,10606.11
+2023-05-06,Webcam,East,Bob,8,1675.8,13406.42
+2023-12-27,Headphones,North,Frank,9,633.79,5704.1
+2023-12-06,Mouse,South,Charlie,2,1784.94,3569.88
+2023-10-11,Keyboard,East,Charlie,10,460.73,4607.28
+2023-06-25,Monitor,East,Eve,8,539.69,4317.49
+2023-01-27,Mouse,West,Charlie,1,56.91,56.91
+2023-03-08,Headphones,South,Frank,8,1125.78,9006.21
+2023-08-07,Laptop,North,Alice,3,1113.9,3341.7
+2023-07-09,Keyboard,West,Bob,1,651.1,651.1
+2023-01-21,Webcam,South,Frank,4,1350.52,5402.08
+2023-07-01,USB Cable,South,Bob,3,1953.6,5860.81
+2023-04-01,USB Cable,North,Bob,6,1575.65,9453.92
+2023-07-30,Monitor,East,Bob,2,795.96,1591.91
+2023-01-20,Hard Drive,South,Bob,8,731.83,5854.67
+2023-04-27,Monitor,North,Frank,4,827.01,3308.03
+2023-05-23,Mouse,East,Charlie,9,829.37,7464.36
+2023-10-02,Webcam,North,Alice,5,398.21,1991.04
+2023-05-16,Laptop,North,Eve,7,724.09,5068.63
+2023-06-10,USB Cable,North,Diana,10,420.65,4206.54
+2023-01-23,USB Cable,North,Eve,9,1389.37,12504.34
+2023-12-10,Monitor,East,Diana,2,1900.31,3800.61
+2023-06-19,Webcam,North,Frank,5,1038.89,5194.44
+2023-12-08,USB Cable,East,Diana,5,1131.1,5655.52
+2023-04-09,USB Cable,West,Frank,3,1250.25,3750.76
+2023-06-04,USB Cable,North,Charlie,5,459.86,2299.28
+2023-10-24,Webcam,West,Diana,8,1367.47,10939.78
+2023-09-19,Hard Drive,South,Frank,2,603.38,1206.77
+2023-12-06,Webcam,North,Bob,5,488.05,2440.25
+2023-04-12,Keyboard,North,Alice,4,1968.68,7874.7
+2023-11-09,Mouse,West,Diana,10,429.15,4291.49
+2023-12-23,USB Cable,West,Diana,4,337.76,1351.06
+2023-12-19,Laptop,North,Diana,4,392.98,1571.92
+2023-12-23,Hard Drive,North,Eve,4,1839.07,7356.27
+2023-03-04,Hard Drive,South,Diana,9,1976.39,17787.51
+2023-11-01,Webcam,West,Eve,9,882.14,7939.3
+2023-10-08,Hard Drive,South,Frank,8,927.64,7421.09
+2023-05-07,Headphones,West,Frank,4,585.47,2341.86
+2023-02-09,Headphones,South,Charlie,6,673.43,4040.6
+2023-10-04,Mouse,South,Bob,4,796.92,3187.68
+2023-03-20,Monitor,North,Diana,7,695.22,4866.53
+2023-08-27,USB Cable,North,Bob,7,809.48,5666.36
+2023-10-27,Laptop,West,Diana,1,1888.35,1888.35
+2023-06-02,USB Cable,West,Eve,9,1609.74,14487.69
+2023-04-23,Hard Drive,South,Charlie,7,997.0,6979.01
+2023-07-19,Webcam,West,Frank,3,1688.99,5066.96
+2023-03-07,Laptop,West,Eve,10,1342.85,13428.5
+2023-02-12,USB Cable,South,Diana,3,148.06,444.17
+2023-07-14,Webcam,South,Diana,6,708.13,4248.76
+2023-07-14,Headphones,West,Charlie,2,967.1,1934.2
+2023-10-04,Laptop,East,Bob,2,1573.4,3146.81
+2023-11-30,Laptop,North,Bob,4,1686.5,6745.99
+2023-11-15,Keyboard,South,Bob,8,1355.44,10843.56
+2023-10-16,Monitor,West,Frank,5,1545.45,7727.26
+2023-03-27,Mouse,South,Charlie,2,1178.44,2356.87
+2023-06-09,USB Cable,West,Frank,4,198.19,792.77
+2023-12-20,Monitor,North,Frank,5,1708.07,8540.36
+2023-11-04,Mouse,North,Charlie,9,885.34,7968.03
+2023-07-09,Mouse,East,Alice,7,1653.55,11574.82
+2023-02-24,USB Cable,East,Frank,8,1429.25,11434.01
+2023-08-11,Keyboard,East,Eve,9,1560.55,14044.96
+2023-08-27,USB Cable,East,Charlie,4,1669.93,6679.7
+2023-02-14,Headphones,West,Bob,8,1161.21,9289.65
+2023-12-09,USB Cable,East,Alice,8,1709.36,13674.86
+2023-04-04,Hard Drive,South,Charlie,5,713.66,3568.3
+2023-11-02,Headphones,North,Eve,4,216.95,867.78
+2023-07-28,Hard Drive,South,Frank,8,1309.51,10476.09
+2023-09-09,Hard Drive,North,Alice,5,482.11,2410.56
+2023-12-21,Monitor,East,Frank,10,769.59,7695.9
+2023-10-11,Webcam,West,Frank,9,695.04,6255.39
+2023-12-26,Hard Drive,East,Charlie,5,499.55,2497.75
+2023-04-09,Webcam,North,Frank,9,1904.21,17137.9
+2023-12-20,Keyboard,South,Bob,8,589.17,4713.39
+2023-10-29,Headphones,North,Bob,5,493.59,2467.96
+2023-04-02,Headphones,North,Frank,9,296.84,2671.53
+2023-01-24,Laptop,East,Frank,3,1293.85,3881.54
+2023-09-09,Mouse,North,Eve,5,965.32,4826.62
+2023-08-14,Webcam,South,Alice,5,1885.07,9425.37
+2023-09-02,Mouse,North,Diana,8,194.46,1555.68
+2023-11-19,Laptop,South,Bob,10,1900.8,19007.95
+2023-02-13,Monitor,North,Eve,7,1232.32,8626.24
+2023-11-13,Monitor,West,Diana,8,629.84,5038.71
+2023-10-29,USB Cable,East,Eve,10,167.45,1674.49
+2023-02-20,Monitor,South,Charlie,2,356.26,712.52
+2023-03-30,Mouse,South,Alice,7,928.48,6499.38
+2023-11-01,Hard Drive,East,Alice,4,611.8,2447.22
+2023-05-25,Hard Drive,North,Frank,4,1851.63,7406.51
+2023-11-17,Monitor,West,Alice,9,488.38,4395.41
+2023-03-18,Headphones,South,Alice,1,373.55,373.55
+2023-06-07,Headphones,West,Alice,8,1392.92,11143.38
+2023-12-25,USB Cable,East,Eve,9,1012.9,9116.11
+2023-02-11,Laptop,West,Frank,6,1227.24,7363.45
+2023-01-14,Mouse,South,Frank,10,1194.89,11948.9
+2023-01-11,Headphones,North,Bob,8,1061.98,8495.84
+2023-08-15,Headphones,South,Eve,7,1287.83,9014.81
+2023-09-09,Mouse,West,Charlie,7,699.95,4899.66
+2023-12-10,Mouse,South,Charlie,7,1402.66,9818.65
+2023-05-28,USB Cable,North,Diana,2,663.31,1326.62
+2023-06-15,Mouse,West,Eve,1,1332.44,1332.44
+2023-10-05,Hard Drive,West,Alice,4,1060.96,4243.83
+2023-11-15,Hard Drive,West,Alice,4,570.76,2283.04
+2023-03-09,Headphones,West,Frank,8,286.78,2294.25
+2023-11-19,Monitor,South,Charlie,9,76.67,689.99
+2023-07-28,Mouse,South,Alice,8,1896.77,15174.15
+2023-11-28,Keyboard,West,Frank,5,1042.3,5211.5
+2023-05-20,USB Cable,West,Diana,4,940.73,3762.93
+2023-03-16,USB Cable,South,Eve,9,1505.27,13547.43
+2023-03-11,Mouse,East,Diana,6,1871.78,11230.71
+2023-09-17,Headphones,North,Charlie,5,1683.08,8415.39
+2023-10-24,Hard Drive,South,Diana,9,994.47,8950.19
+2023-06-20,USB Cable,West,Charlie,4,1962.51,7850.04
+2023-05-03,USB Cable,South,Diana,1,670.44,670.44
+2023-08-31,USB Cable,West,Frank,3,1015.89,3047.67
+2023-01-19,Keyboard,East,Alice,8,244.44,1955.5
+2023-08-22,Laptop,South,Diana,3,195.92,587.75
+2023-05-16,Webcam,West,Frank,2,1710.94,3421.88
+2023-12-12,USB Cable,East,Frank,8,1751.15,14009.18
+2023-01-19,Mouse,South,Frank,5,1994.98,9974.9
+2023-02-16,USB Cable,North,Frank,2,915.17,1830.35
+2023-12-22,Headphones,North,Alice,6,1602.48,9614.88
+2023-05-31,Webcam,East,Diana,3,526.18,1578.55
+2023-07-30,Keyboard,South,Bob,2,1238.51,2477.02
+2023-07-15,Monitor,West,Eve,3,502.77,1508.3
+2023-11-23,Headphones,West,Charlie,1,1802.87,1802.87
+2023-08-27,Headphones,South,Alice,8,1893.21,15145.68
+2023-10-28,Headphones,West,Frank,5,940.83,4704.15
+2023-06-04,Monitor,West,Diana,2,512.55,1025.1
+2023-10-20,Webcam,East,Frank,5,92.78,463.91
+2023-12-04,USB Cable,East,Alice,10,1736.88,17368.81
+2023-01-26,Hard Drive,East,Bob,10,1613.77,16137.67
+2023-04-23,Monitor,East,Frank,3,1275.08,3825.25
+2023-11-18,Laptop,East,Diana,1,1180.17,1180.17
+2023-03-09,Mouse,East,Charlie,7,392.5,2747.49
+2023-03-09,Webcam,East,Bob,5,1832.4,9161.98
+2023-09-04,Headphones,East,Alice,8,1927.64,15421.14
+2023-03-14,Monitor,West,Eve,6,226.09,1356.54
+2023-07-22,Laptop,East,Eve,2,936.83,1873.67
+2023-12-11,Headphones,West,Frank,6,261.27,1567.65
+2023-04-30,Hard Drive,North,Eve,9,689.61,6206.51
+2023-11-09,Monitor,North,Frank,8,1823.31,14586.45
+2023-06-04,USB Cable,North,Bob,1,1895.21,1895.21
+2023-06-05,Hard Drive,North,Alice,4,1780.16,7120.62
+2023-03-11,USB Cable,West,Charlie,9,867.3,7805.67
+2023-03-21,USB Cable,North,Diana,10,845.83,8458.26
+2023-05-24,Laptop,East,Bob,8,917.16,7337.26
+2023-05-01,Webcam,North,Frank,6,1111.71,6670.25
+2023-11-27,Webcam,North,Diana,5,420.13,2100.63
+2023-03-04,Hard Drive,North,Frank,4,1301.32,5205.29
+2023-11-02,Laptop,North,Charlie,4,1978.2,7912.8
+2023-10-17,Monitor,North,Eve,4,1193.45,4773.79
+2023-04-30,Webcam,South,Eve,1,590.69,590.69
+2023-03-16,Keyboard,East,Bob,2,1339.06,2678.12
+2023-01-14,Keyboard,North,Charlie,4,1198.26,4793.05
+2023-01-09,Keyboard,East,Alice,3,1496.35,4489.05
+2023-09-27,Mouse,North,Diana,8,1567.13,12537.07
+2023-09-20,Mouse,West,Eve,4,1893.56,7574.24
+2023-01-23,Headphones,West,Frank,1,168.61,168.61
+2023-09-03,USB Cable,West,Frank,2,1006.02,2012.05
+2023-08-16,Mouse,North,Charlie,10,339.25,3392.51
+2023-03-06,Headphones,East,Diana,10,1084.59,10845.86
+2023-08-21,USB Cable,North,Frank,2,1712.95,3425.89
+2023-11-30,Monitor,West,Diana,4,856.94,3427.75
+2023-08-21,USB Cable,West,Frank,2,659.47,1318.94
+2023-06-10,Headphones,East,Bob,8,180.91,1447.28
+2023-02-13,Mouse,West,Alice,6,1632.95,9797.7
+2023-10-12,Laptop,East,Frank,2,851.08,1702.15
+2023-12-07,USB Cable,North,Charlie,10,659.28,6592.75
+2023-02-23,Monitor,South,Frank,8,487.28,3898.22
+2023-02-25,Webcam,East,Alice,5,1169.5,5847.48
+2023-08-08,Laptop,East,Alice,3,582.88,1748.63
+2023-06-08,Webcam,East,Alice,3,1746.23,5238.7
+2023-10-17,USB Cable,North,Bob,1,228.93,228.93
+2023-09-29,Monitor,West,Diana,8,714.75,5717.98
+2023-07-09,Headphones,East,Eve,10,215.67,2156.66
+2023-01-27,Keyboard,South,Eve,1,1364.24,1364.24
+2023-05-20,Hard Drive,West,Diana,10,911.99,9119.86
+2023-05-20,Monitor,North,Charlie,7,266.24,1863.65
+2023-12-14,Hard Drive,East,Alice,4,820.76,3283.05
+2023-11-03,Laptop,North,Bob,5,1893.38,9466.91
+2023-03-12,Headphones,East,Charlie,2,65.07,130.15
+2023-08-09,Keyboard,South,Diana,9,1422.16,12799.43
+2023-09-14,Webcam,North,Diana,1,900.63,900.63
+2023-08-24,Mouse,East,Eve,7,1168.13,8176.91
+2023-12-30,USB Cable,East,Alice,7,90.67,634.69
+2023-06-16,Keyboard,West,Frank,6,221.85,1331.12
+2023-02-24,Monitor,West,Eve,7,1071.73,7502.09
+2023-07-22,Headphones,East,Bob,6,1569.28,9415.68
+2023-02-09,Mouse,South,Charlie,6,1468.39,8810.34
+2023-11-27,Keyboard,South,Alice,3,549.14,1647.41
+2023-03-30,Keyboard,North,Bob,8,954.71,7637.67
+2023-10-16,Hard Drive,East,Frank,6,344.37,2066.2
+2023-02-04,Hard Drive,West,Frank,5,1602.84,8014.21
+2023-10-30,Laptop,East,Eve,2,655.3,1310.59
+2023-08-20,Laptop,North,Charlie,5,199.63,998.13
+2023-02-16,USB Cable,West,Eve,9,1910.75,17196.76
+2023-01-22,Hard Drive,South,Charlie,10,977.48,9774.77
+2023-03-19,Laptop,West,Alice,6,1965.65,11793.91
+2023-02-13,Keyboard,North,Bob,8,1982.42,15859.38
+2023-09-26,Keyboard,East,Charlie,5,805.46,4027.31
+2023-06-23,Laptop,East,Alice,6,234.29,1405.72
+2023-12-14,USB Cable,East,Charlie,10,1752.9,17528.95
+2023-06-20,Mouse,South,Charlie,5,1937.01,9685.04
+2023-12-24,USB Cable,South,Eve,2,653.68,1307.37
+2023-07-12,Webcam,South,Frank,9,232.23,2090.1
+2023-12-10,USB Cable,East,Alice,6,652.29,3913.73
+2023-04-20,Webcam,West,Bob,4,1999.95,7999.82
+2023-03-21,Mouse,East,Alice,9,1553.21,13978.85
+2023-09-27,Laptop,East,Eve,3,1214.63,3643.89
+2023-03-20,Keyboard,South,Frank,10,1627.64,16276.35
+2023-03-26,Hard Drive,North,Diana,6,1368.91,8213.45
+2023-05-02,Hard Drive,East,Frank,8,506.31,4050.45
+2023-05-03,Headphones,West,Bob,6,1372.7,8236.19
+2023-10-20,Hard Drive,West,Charlie,7,1030.67,7214.68
+2023-08-03,Keyboard,South,Eve,3,1752.35,5257.06
+2023-01-27,Hard Drive,East,Eve,2,1437.23,2874.46
+2023-09-22,Mouse,East,Alice,3,581.94,1745.83
+2023-09-20,Keyboard,West,Alice,4,1642.57,6570.29
+2023-06-28,Laptop,West,Alice,7,1028.91,7202.4
+2023-05-01,USB Cable,North,Charlie,4,104.97,419.86
+2023-02-20,Webcam,South,Bob,1,609.41,609.41
+2023-08-30,Keyboard,West,Diana,10,60.24,602.4
+2023-02-10,Laptop,East,Bob,3,1120.17,3360.5
+2023-11-08,USB Cable,North,Charlie,4,637.24,2548.98
+2023-01-25,Monitor,West,Frank,10,941.37,9413.72
+2023-02-26,Hard Drive,North,Frank,9,1171.34,10542.08
+2023-03-15,Headphones,West,Alice,10,737.99,7379.91
+2023-10-20,USB Cable,South,Frank,2,1070.79,2141.59
+2023-07-04,Mouse,North,Diana,8,134.89,1079.14
+2023-07-18,Webcam,East,Frank,1,746.33,746.33
+2023-02-04,Webcam,South,Frank,2,1554.43,3108.86
+2023-06-20,Keyboard,North,Charlie,9,710.17,6391.5
+2023-11-26,Keyboard,West,Frank,8,1281.88,10255.08
+2023-03-11,Mouse,West,Alice,5,443.1,2215.51
+2023-04-13,Laptop,East,Charlie,9,826.54,7438.83
+2023-10-06,Hard Drive,East,Alice,4,607.92,2431.66
+2023-01-25,Webcam,East,Alice,6,902.06,5412.33
+2023-07-24,Hard Drive,West,Charlie,3,1017.6,3052.79
+2023-09-12,Webcam,East,Alice,7,203.91,1427.35
+2023-11-05,Keyboard,East,Charlie,2,206.13,412.27
+2023-12-05,Headphones,East,Diana,10,1449.44,14494.43
+2023-03-27,Hard Drive,East,Diana,1,1467.29,1467.29
+2023-06-30,USB Cable,East,Frank,1,196.33,196.33
+2023-11-23,USB Cable,East,Eve,3,1907.94,5723.82
+2023-03-15,Hard Drive,North,Bob,2,510.19,1020.38
+2023-11-27,Webcam,East,Diana,10,113.15,1131.51
+2023-03-20,Hard Drive,East,Charlie,8,1538.01,12304.12
+2023-10-21,Keyboard,East,Diana,6,1316.64,7899.86
+2023-05-08,Mouse,North,Frank,3,1023.14,3069.41
+2023-07-18,Mouse,East,Charlie,8,468.41,3747.3
+2023-11-10,Headphones,West,Bob,2,314.67,629.34
+2023-02-07,Hard Drive,South,Frank,8,1994.66,15957.29
+2023-12-16,Webcam,East,Frank,2,1122.49,2244.99
+2023-05-29,Headphones,South,Frank,3,1597.71,4793.12
+2023-09-18,Monitor,North,Bob,3,511.64,1534.91
+2023-09-10,Laptop,East,Eve,10,769.38,7693.77
+2023-10-10,Keyboard,North,Alice,5,826.41,4132.06
+2023-09-03,USB Cable,West,Eve,2,294.39,588.77
+2023-06-12,Mouse,West,Diana,9,721.8,6496.23
+2023-10-10,Keyboard,South,Diana,9,1825.89,16433.0
+2023-01-29,Mouse,South,Charlie,3,365.84,1097.51
+2023-12-30,Monitor,East,Eve,5,1699.57,8497.85
+2023-05-09,Monitor,East,Bob,5,1248.14,6240.68
+2023-02-17,Keyboard,South,Bob,10,1455.23,14552.34
+2023-11-06,Webcam,North,Alice,2,138.65,277.3
+2023-11-25,Headphones,South,Eve,7,1255.31,8787.18
+2023-01-16,Hard Drive,East,Frank,5,991.74,4958.71
+2023-12-17,USB Cable,East,Diana,2,1392.8,2785.59
+2023-03-22,Hard Drive,West,Diana,8,447.84,3582.76
+2023-11-07,Keyboard,East,Frank,6,1481.69,8890.14
+2023-06-26,USB Cable,South,Charlie,9,1145.22,10306.98
+2023-06-13,Monitor,West,Alice,5,926.71,4633.56
+2023-03-14,Mouse,North,Charlie,7,1735.12,12145.84
+2023-08-03,Monitor,South,Charlie,10,1456.2,14562.0
+2023-04-08,Keyboard,West,Eve,8,1022.58,8180.65
+2023-06-07,Hard Drive,North,Alice,7,1035.62,7249.32
+2023-05-04,Monitor,East,Alice,1,598.64,598.64
+2023-11-02,Hard Drive,East,Eve,1,1701.99,1701.99
+2023-08-09,Keyboard,East,Frank,6,1539.52,9237.12
+2023-07-07,Laptop,West,Alice,10,1145.54,11455.43
+2023-07-05,Headphones,North,Diana,9,928.19,8353.72
+2023-10-09,Headphones,North,Bob,2,818.11,1636.22
+2023-06-23,Webcam,South,Bob,10,1042.79,10427.89
+2023-09-14,Laptop,North,Alice,3,1441.5,4324.51
+2023-08-31,Hard Drive,South,Eve,9,322.57,2903.16
+2023-11-10,Webcam,South,Diana,10,1491.67,14916.73
+2023-06-03,Webcam,West,Frank,10,634.59,6345.92
+2023-01-09,Webcam,East,Frank,2,1960.8,3921.6
+2023-10-26,Headphones,North,Eve,8,567.78,4542.27
+2023-12-02,Monitor,North,Eve,8,382.5,3059.99
+2023-11-19,USB Cable,South,Frank,4,111.56,446.25
+2023-12-25,Mouse,South,Alice,8,661.7,5293.6
+2023-03-19,USB Cable,South,Diana,9,1561.2,14050.76
+2023-08-30,Laptop,South,Eve,4,1143.73,4574.92
+2023-12-06,Hard Drive,West,Charlie,3,946.34,2839.03
+2023-09-30,Webcam,East,Frank,5,1239.65,6198.25
+2023-04-09,Monitor,East,Eve,5,488.49,2442.45
+2023-06-02,Headphones,South,Frank,8,668.23,5345.84
+2023-06-28,Headphones,East,Alice,10,1369.41,13694.13
+2023-07-14,USB Cable,East,Bob,5,132.03,660.15
+2023-02-10,Webcam,West,Frank,5,1507.31,7536.55
+2023-04-20,Monitor,East,Eve,5,317.68,1588.41
+2023-11-12,Monitor,South,Alice,9,490.06,4410.54
+2023-04-30,Laptop,North,Diana,6,1448.85,8693.09
+2023-02-21,Keyboard,North,Eve,3,843.47,2530.41
+2023-09-01,Hard Drive,South,Charlie,6,606.56,3639.36
+2023-01-31,Mouse,South,Eve,1,1830.8,1830.8
+2023-03-31,USB Cable,South,Alice,7,1586.52,11105.66
+2023-04-06,Headphones,North,Alice,5,1157.53,5787.63
+2023-02-24,Webcam,East,Diana,9,1072.42,9651.79
+2023-03-10,Hard Drive,East,Bob,2,694.83,1389.67
+2023-08-23,Headphones,South,Alice,6,1592.0,9551.98
+2023-10-18,Monitor,South,Eve,7,1662.63,11638.41
+2023-09-21,Webcam,North,Diana,2,410.32,820.65
+2023-03-13,Hard Drive,East,Bob,1,558.53,558.53
+2023-05-01,Hard Drive,East,Charlie,5,1185.8,5928.99
+2023-10-21,Laptop,East,Frank,6,1400.9,8405.39
+2023-02-01,Mouse,West,Charlie,3,840.56,2521.69
+2023-09-15,Headphones,North,Frank,5,766.71,3833.55
+2023-04-24,Monitor,South,Diana,3,937.21,2811.63
+2023-11-07,Webcam,West,Frank,9,1829.95,16469.59
+2023-10-03,Monitor,South,Frank,10,1752.61,17526.13
+2023-02-11,Hard Drive,East,Alice,10,268.81,2688.07
+2023-10-08,Monitor,South,Bob,6,1716.25,10297.49
+2023-08-15,Mouse,South,Frank,10,1003.21,10032.15
+2023-09-19,Hard Drive,North,Diana,3,1050.83,3152.5
+2023-08-22,Laptop,West,Frank,5,1460.4,7301.98
+2023-07-22,Headphones,North,Frank,4,1177.71,4710.83
+2023-01-24,USB Cable,East,Frank,2,1105.27,2210.54
+2023-01-31,Mouse,West,Alice,5,847.29,4236.45
+2023-03-11,USB Cable,East,Diana,8,1745.76,13966.08
+2023-07-13,USB Cable,North,Frank,9,309.33,2783.97
+2023-06-28,Mouse,South,Eve,7,1081.24,7568.7
+2023-04-25,Laptop,North,Charlie,8,1363.32,10906.6
+2023-10-06,USB Cable,West,Bob,4,948.22,3792.88
+2023-03-21,Headphones,South,Frank,2,112.82,225.65
+2023-12-05,USB Cable,North,Bob,4,181.22,724.87
+2023-11-01,Laptop,West,Eve,1,527.23,527.23
+2023-01-23,USB Cable,West,Bob,9,473.67,4263.07
+2023-01-29,Keyboard,East,Bob,10,671.86,6718.62
+2023-11-03,Webcam,South,Charlie,3,1972.11,5916.32
+2023-09-24,Monitor,West,Charlie,5,168.87,844.34
+2023-10-30,Keyboard,West,Eve,8,141.42,1131.39
+2023-06-26,USB Cable,East,Frank,7,846.11,5922.74
+2023-06-03,USB Cable,South,Eve,8,519.89,4159.1
+2023-04-26,Headphones,South,Diana,1,1146.65,1146.65
+2023-08-02,Keyboard,West,Bob,5,446.51,2232.53
+2023-11-28,Mouse,West,Charlie,2,1094.49,2188.98
+2023-04-08,Laptop,East,Diana,10,1225.7,12256.98
+2023-02-07,Monitor,South,Diana,4,1745.47,6981.9
+2023-06-20,Headphones,North,Bob,4,1926.05,7704.2
+2023-03-02,Hard Drive,South,Frank,10,1422.35,14223.49
+2023-07-23,Monitor,East,Charlie,7,959.19,6714.32
+2023-11-29,Webcam,East,Charlie,6,1049.99,6299.95
+2023-09-12,Hard Drive,North,Frank,8,1535.18,12281.41
+2023-06-13,Monitor,East,Charlie,7,139.15,974.02
+2023-04-24,Keyboard,North,Charlie,9,1872.78,16855.01
+2023-10-24,USB Cable,East,Bob,4,693.24,2772.95
+2023-07-14,Monitor,West,Eve,6,551.79,3310.72
+2023-09-08,Hard Drive,West,Bob,6,380.07,2280.41
+2023-10-07,Hard Drive,South,Eve,1,1071.69,1071.69
+2023-02-08,Laptop,North,Diana,3,1692.96,5078.89
+2023-04-29,Mouse,South,Alice,4,1036.18,4144.72
+2023-07-11,Laptop,West,Frank,8,80.68,645.42
+2023-09-30,USB Cable,North,Alice,9,1458.28,13124.48
+2023-10-02,Headphones,North,Eve,7,1622.03,11354.19
+2023-04-02,Mouse,North,Eve,3,519.89,1559.67
+2023-11-14,Headphones,East,Charlie,7,204.09,1428.61
+2023-07-27,Hard Drive,South,Frank,4,634.95,2539.8
+2023-02-11,Laptop,North,Diana,7,785.48,5498.36
+2023-09-01,Laptop,North,Frank,3,211.24,633.71
+2023-08-11,Webcam,North,Eve,1,498.04,498.04
+2023-12-21,Hard Drive,East,Alice,2,1384.64,2769.27
+2023-05-24,Laptop,South,Charlie,1,1924.86,1924.86
+2023-10-28,Keyboard,West,Alice,5,366.78,1833.89
+2023-05-04,USB Cable,East,Diana,3,1591.47,4774.41
+2023-12-19,Mouse,East,Alice,2,902.32,1804.64
+2023-02-08,Webcam,West,Charlie,1,1286.54,1286.54
+2023-08-19,Hard Drive,South,Charlie,9,1885.23,16967.06
+2023-08-10,Keyboard,West,Alice,10,625.99,6259.9
+2023-05-07,Mouse,North,Charlie,3,791.0,2373.0
+2023-11-21,Keyboard,West,Charlie,6,257.77,1546.65
+2023-01-03,Headphones,West,Charlie,5,249.35,1246.76
+2023-02-14,Keyboard,West,Diana,9,1131.74,10185.69
+2023-07-28,Mouse,North,Alice,6,1130.73,6784.37
+2023-11-02,Webcam,West,Alice,5,856.93,4284.65
+2023-02-13,Monitor,South,Frank,7,380.53,2663.7
+2023-05-18,Headphones,East,Diana,3,173.37,520.11
+2023-08-11,Headphones,West,Charlie,8,1576.2,12609.6
+2023-07-04,Headphones,South,Frank,8,1207.92,9663.38
+2023-04-11,Hard Drive,North,Bob,5,63.2,315.98
+2023-07-22,Webcam,West,Charlie,8,702.74,5621.89
+2023-11-30,Keyboard,East,Charlie,10,1897.19,18971.94
+2023-04-13,Hard Drive,East,Bob,7,1939.01,13573.1
+2023-05-30,Hard Drive,South,Charlie,7,596.59,4176.1
+2023-07-21,Webcam,North,Eve,4,1204.84,4819.37
+2023-10-07,Keyboard,North,Frank,8,1888.8,15110.41
+2023-04-18,Hard Drive,East,Frank,2,1646.98,3293.97
+2023-07-29,Hard Drive,South,Frank,5,521.94,2609.71
+2023-12-04,Keyboard,West,Diana,2,925.68,1851.36
+2023-11-03,Hard Drive,West,Eve,9,1850.82,16657.35
+2023-12-21,USB Cable,North,Charlie,9,1207.95,10871.54
+2023-02-13,Mouse,South,Frank,6,374.36,2246.16
+2023-11-10,Laptop,West,Charlie,7,256.59,1796.14
+2023-02-20,Headphones,South,Eve,9,1138.09,10242.78
+2023-12-19,Monitor,West,Charlie,7,952.97,6670.81
+2023-12-14,Keyboard,East,Alice,8,253.87,2030.97
+2023-08-01,Mouse,North,Frank,3,729.24,2187.72
+2023-06-25,Hard Drive,South,Eve,8,729.19,5833.48
+2023-02-19,Hard Drive,West,Charlie,2,635.51,1271.03
+2023-12-30,Mouse,North,Charlie,2,1370.42,2740.84
+2023-03-26,Monitor,South,Eve,3,695.43,2086.29
+2023-08-07,Hard Drive,South,Diana,3,413.45,1240.36
+2023-12-03,USB Cable,West,Alice,10,1772.04,17720.4
+2023-08-19,USB Cable,West,Alice,4,451.28,1805.12
+2023-12-27,Mouse,North,Eve,3,763.3,2289.89
+2023-04-11,Hard Drive,North,Charlie,8,1079.04,8632.35
+2023-11-24,Webcam,West,Eve,7,1194.66,8362.61
+2023-06-28,Webcam,West,Eve,3,1636.79,4910.37
+2023-12-28,Headphones,North,Frank,3,660.71,1982.14
+2023-05-03,Headphones,North,Bob,6,1402.2,8413.21
+2023-09-19,USB Cable,West,Eve,3,1170.87,3512.62
+2023-08-05,Keyboard,West,Frank,9,1402.19,12619.75
+2023-11-27,Keyboard,South,Diana,5,323.58,1617.89
+2023-06-11,Hard Drive,North,Charlie,1,994.99,994.99
+2023-04-10,USB Cable,West,Diana,8,860.48,6883.83
+2023-08-16,Hard Drive,South,Alice,10,110.18,1101.78
+2023-04-23,Headphones,North,Charlie,4,1098.34,4393.35
+2023-03-28,Hard Drive,West,Eve,9,270.76,2436.85
+2023-02-28,Headphones,East,Eve,1,1532.01,1532.01
+2023-08-14,Monitor,West,Alice,4,630.53,2522.13
+2023-01-17,Hard Drive,East,Charlie,2,906.19,1812.37
+2023-03-02,Monitor,South,Frank,10,1393.81,13938.1
+2023-12-30,USB Cable,South,Eve,3,1580.46,4741.37
+2023-04-16,Laptop,East,Eve,5,1213.87,6069.36
+2023-03-28,Webcam,East,Charlie,10,571.32,5713.19
+2023-09-21,Mouse,South,Diana,1,1985.35,1985.35
+2023-12-02,Keyboard,South,Bob,3,1437.22,4311.66
+2023-05-07,USB Cable,West,Bob,10,1283.18,12831.84
+2023-11-18,USB Cable,West,Diana,2,1285.57,2571.15
+2023-02-17,USB Cable,East,Frank,6,936.66,5619.94
+2023-09-07,Webcam,North,Frank,2,1475.32,2950.63
+2023-08-23,Webcam,North,Eve,7,474.77,3323.38
+2023-08-08,Monitor,West,Charlie,6,1665.27,9991.62
+2023-06-22,Keyboard,West,Charlie,1,139.59,139.59
+2023-11-17,Hard Drive,North,Alice,3,910.51,2731.52
+2023-01-01,USB Cable,South,Frank,3,1770.19,5310.56
+2023-06-04,Keyboard,East,Alice,6,538.26,3229.55
+2023-07-10,Keyboard,North,Diana,5,1465.68,7328.39
+2023-04-30,USB Cable,North,Frank,2,52.12,104.24
+2023-09-02,Mouse,South,Eve,4,1062.92,4251.67
+2023-08-16,Laptop,North,Frank,6,1643.36,9860.18
+2023-08-05,Keyboard,West,Alice,4,796.99,3187.95
+2023-02-22,Mouse,East,Charlie,5,317.4,1587.01
+2023-03-10,Keyboard,North,Eve,10,66.53,665.26
+2023-11-29,Keyboard,West,Charlie,4,1274.76,5099.02
+2023-03-19,USB Cable,West,Bob,2,1798.36,3596.71
+2023-03-13,Mouse,West,Charlie,7,663.28,4642.98
+2023-03-13,Monitor,East,Frank,2,533.93,1067.85
+2023-11-04,Headphones,North,Frank,5,450.62,2253.1
+2023-11-07,Monitor,West,Charlie,1,1578.41,1578.41
+2023-05-03,Hard Drive,West,Alice,4,1024.19,4096.74
+2023-11-01,Mouse,North,Charlie,6,307.37,1844.2
+2023-10-19,USB Cable,East,Eve,3,1537.32,4611.95
+2023-02-07,Laptop,North,Alice,5,470.7,2353.49
+2023-01-31,USB Cable,East,Frank,9,1545.86,13912.78
+2023-08-05,USB Cable,North,Frank,9,1098.43,9885.85
+2023-03-20,Headphones,North,Charlie,2,1047.04,2094.09
+2023-04-15,Keyboard,East,Diana,10,1286.87,12868.74
+2023-11-29,Mouse,East,Frank,7,1473.42,10313.93
+2023-05-03,Laptop,South,Alice,7,276.17,1933.22
+2023-11-10,Laptop,East,Frank,3,282.91,848.74
+2023-12-29,Keyboard,North,Bob,8,1908.38,15267.05
+2023-09-25,Headphones,South,Charlie,3,1512.06,4536.19
+2023-05-18,Mouse,North,Charlie,7,580.36,4062.54
+2023-02-02,Headphones,North,Diana,8,1046.02,8368.2
+2023-01-29,Hard Drive,South,Charlie,3,547.48,1642.43
+2023-02-22,Mouse,South,Frank,9,55.01,495.08
+2023-01-07,Monitor,North,Diana,6,796.81,4780.86
+2023-03-18,Keyboard,North,Eve,7,487.8,3414.63
+2023-05-08,USB Cable,East,Charlie,2,1164.5,2328.99
+2023-03-03,Laptop,South,Bob,9,1963.76,17673.81
+2023-07-25,Mouse,West,Charlie,5,688.24,3441.18
+2023-10-11,Hard Drive,North,Charlie,4,618.61,2474.44
+2023-06-05,Monitor,West,Charlie,10,1945.12,19451.23
+2023-04-11,Monitor,South,Alice,7,96.62,676.37
+2023-10-05,Webcam,North,Charlie,1,1529.91,1529.91
+2023-07-12,Headphones,North,Bob,9,1967.08,17703.68
+2023-08-03,Hard Drive,North,Bob,5,231.4,1157.01
+2023-04-29,USB Cable,East,Diana,2,1182.5,2365.01
+2023-09-16,Keyboard,West,Alice,10,1157.25,11572.5
+2023-08-11,Keyboard,South,Charlie,5,1709.28,8546.41
+2023-07-21,Webcam,East,Diana,5,505.54,2527.71
+2023-04-14,Keyboard,North,Bob,2,370.53,741.06
+2023-08-27,Webcam,West,Alice,9,748.66,6737.94
+2023-04-17,Hard Drive,East,Diana,5,1712.34,8561.7
+2023-02-16,Keyboard,East,Frank,10,128.64,1286.43
+2023-06-17,Keyboard,North,Frank,4,1938.38,7753.52
+2023-07-22,Laptop,East,Charlie,3,110.61,331.83
+2023-07-27,Hard Drive,South,Alice,8,248.72,1989.75
+2023-03-13,Mouse,North,Alice,4,304.89,1219.58
+2023-07-25,Webcam,North,Eve,10,554.7,5547.0
+2023-02-08,Laptop,North,Bob,8,1628.13,13025.06
+2023-02-17,Webcam,North,Alice,8,148.74,1189.95
+2023-10-21,USB Cable,West,Diana,1,796.32,796.32
+2023-08-07,Keyboard,East,Bob,3,586.21,1758.64
+2023-08-17,Keyboard,North,Eve,10,1253.11,12531.05
+2023-11-28,Headphones,West,Diana,9,984.11,8856.99
+2023-02-14,Headphones,West,Bob,7,438.94,3072.6
+2023-09-27,Monitor,North,Diana,6,985.38,5912.31
+2023-09-06,Webcam,East,Diana,5,400.64,2003.2
+2023-06-13,Monitor,North,Charlie,1,1626.88,1626.88
+2023-08-30,Webcam,South,Bob,2,533.32,1066.64
+2023-05-04,Headphones,North,Bob,10,1700.68,17006.85
+2023-07-18,Webcam,South,Bob,4,1205.41,4821.65
+2023-12-24,Webcam,North,Frank,6,1897.74,11386.44
+2023-10-16,Keyboard,South,Diana,9,652.65,5873.88
+2023-09-09,Laptop,North,Alice,4,1223.24,4892.97
+2023-01-11,Hard Drive,North,Charlie,10,442.86,4428.56
+2023-03-08,Webcam,South,Charlie,1,92.73,92.73
+2023-10-28,Keyboard,North,Eve,6,1923.09,11538.54
+2023-07-11,USB Cable,North,Charlie,5,679.08,3395.38
+2023-03-22,USB Cable,West,Frank,6,389.7,2338.17
+2023-10-15,Webcam,South,Frank,10,1638.19,16381.86
+2023-07-13,Headphones,East,Bob,3,1471.22,4413.66
+2023-12-26,USB Cable,North,Bob,10,670.52,6705.23
+2023-11-10,Monitor,North,Diana,3,695.78,2087.34
+2023-02-09,Monitor,East,Charlie,3,1290.56,3871.69
+2023-02-15,Webcam,West,Alice,5,458.88,2294.42
+2023-12-21,Mouse,East,Charlie,2,1454.81,2909.61
+2023-01-25,USB Cable,West,Frank,7,1939.75,13578.24
+2023-07-31,Hard Drive,West,Charlie,9,781.93,7037.35
+2023-09-03,Monitor,South,Diana,2,1608.43,3216.86
+2023-01-18,Headphones,North,Charlie,5,1905.74,9528.71
+2023-02-07,Webcam,South,Diana,3,1477.37,4432.11
+2023-10-08,Mouse,East,Eve,10,1791.79,17917.91
+2023-12-27,Laptop,West,Frank,3,1234.27,3702.81
+2023-08-11,Keyboard,North,Alice,6,450.82,2704.94
+2023-04-08,USB Cable,East,Frank,5,629.93,3149.66
+2023-02-19,Laptop,West,Eve,9,1687.72,15189.45
+2023-03-20,Laptop,East,Alice,7,220.88,1546.13
+2023-12-05,Hard Drive,South,Alice,1,453.56,453.56
+2023-11-23,Headphones,North,Diana,2,651.29,1302.58
+2023-07-23,Hard Drive,West,Frank,5,227.72,1138.58
+2023-10-06,USB Cable,South,Charlie,7,770.33,5392.33
+2023-08-17,Laptop,East,Diana,8,563.63,4509.05
+2023-05-18,Laptop,South,Frank,2,217.13,434.26
+2023-06-26,USB Cable,South,Eve,1,1689.55,1689.55
+2023-09-25,USB Cable,West,Eve,4,978.71,3914.85
+2023-02-10,USB Cable,North,Eve,10,1805.89,18058.87
+2023-10-20,Keyboard,North,Diana,3,1900.67,5702.01
+2023-03-27,Monitor,South,Bob,1,875.58,875.58
+2023-12-16,USB Cable,South,Frank,3,1676.51,5029.53
+2023-05-13,Webcam,North,Alice,7,1134.91,7944.37
+2023-10-10,Webcam,East,Eve,8,1838.47,14707.73
+2023-01-07,USB Cable,North,Diana,3,338.99,1016.97
+2023-10-29,Mouse,North,Eve,2,1582.2,3164.41
+2023-10-02,Webcam,West,Charlie,7,1326.84,9287.85
+2023-10-20,Hard Drive,North,Bob,5,835.8,4179.0
+2023-11-13,USB Cable,North,Diana,6,1396.5,8379.01
+2023-01-26,Hard Drive,East,Charlie,1,708.84,708.84
+2023-06-05,Headphones,East,Diana,2,1946.37,3892.74
+2023-04-27,Keyboard,East,Frank,8,1559.36,12474.88
+2023-06-14,Headphones,West,Eve,2,416.47,832.95
+2023-04-19,USB Cable,West,Eve,6,1650.98,9905.9
+2023-09-21,Keyboard,North,Charlie,9,836.6,7529.41
+2023-09-26,Laptop,South,Bob,4,1682.1,6728.42
+2023-05-08,Laptop,West,Alice,6,1424.04,8544.22
+2023-05-21,Webcam,West,Eve,7,1289.05,9023.34
+2023-03-05,Laptop,South,Charlie,8,1208.39,9667.08
+2023-04-01,Hard Drive,East,Charlie,3,1683.42,5050.27
+2023-05-13,Mouse,East,Alice,7,146.82,1027.74
+2023-10-20,Monitor,South,Frank,4,1371.51,5486.02
+2023-05-18,USB Cable,North,Frank,1,974.49,974.49
+2023-03-09,Keyboard,North,Bob,5,1236.27,6181.35
+2023-06-06,Headphones,West,Diana,6,945.05,5670.28
+2023-04-22,Hard Drive,East,Frank,9,1657.41,14916.65
+2023-07-23,Mouse,North,Eve,6,1144.84,6869.05
+2023-11-01,Headphones,East,Frank,2,989.39,1978.78
+2023-06-22,Headphones,East,Charlie,5,1329.43,6647.17
+2023-11-30,Headphones,South,Bob,9,1542.68,13884.08
+2023-01-30,USB Cable,East,Frank,3,1456.5,4369.51
+2023-12-02,Hard Drive,East,Charlie,7,838.97,5872.77
+2023-01-19,Monitor,East,Frank,4,1388.32,5553.28
+2023-11-23,Hard Drive,East,Eve,5,1698.57,8492.84
+2023-12-03,Keyboard,East,Alice,8,299.49,2395.93
+2023-05-13,Keyboard,East,Frank,2,483.39,966.79
+2023-04-25,Headphones,West,Charlie,6,558.09,3348.54
+2023-05-31,Hard Drive,North,Diana,1,1739.47,1739.47
+2023-10-26,Mouse,West,Bob,9,283.64,2552.77
+2023-12-15,USB Cable,East,Diana,1,1748.16,1748.16
+2023-03-19,Keyboard,South,Charlie,7,1975.02,13825.17
+2023-08-23,Keyboard,East,Frank,3,1568.94,4706.81
+2023-09-07,Webcam,South,Charlie,1,59.19,59.19
+2023-05-21,Monitor,South,Eve,3,1004.68,3014.03
+2023-02-15,Keyboard,West,Frank,7,836.62,5856.32
+2023-09-02,USB Cable,North,Alice,9,438.86,3949.72
+2023-07-11,Laptop,East,Eve,4,84.94,339.75
+2023-01-03,Monitor,South,Frank,6,658.58,3951.48
+2023-02-22,USB Cable,East,Bob,2,1656.5,3312.99
+2023-06-02,Headphones,West,Frank,9,1212.92,10916.29
+2023-06-22,USB Cable,South,Charlie,8,750.54,6004.31
+2023-04-07,Keyboard,West,Alice,4,487.43,1949.71
+2023-03-09,Monitor,North,Eve,9,379.52,3415.68
+2023-07-07,Laptop,West,Frank,5,1553.94,7769.68
+2023-11-16,Laptop,North,Frank,2,1324.46,2648.91
+2023-01-11,Laptop,North,Diana,8,791.49,6331.96
+2023-10-08,Headphones,West,Frank,3,450.72,1352.15
+2023-12-18,Laptop,East,Diana,2,1341.84,2683.68
+2023-05-19,Keyboard,West,Alice,9,1451.59,13064.35
+2023-03-02,Headphones,North,Alice,8,437.36,3498.89
+2023-04-13,Headphones,South,Charlie,7,625.93,4381.54
+2023-01-21,Hard Drive,South,Frank,8,694.68,5557.42
+2023-01-02,Laptop,North,Alice,10,1354.59,13545.93
+2023-03-18,Mouse,North,Frank,2,1814.32,3628.64
+2023-11-26,Monitor,West,Charlie,5,955.34,4776.7
+2023-02-21,Keyboard,North,Charlie,6,1613.11,9678.67
+2023-06-10,USB Cable,North,Alice,1,68.86,68.86
+2023-03-12,Keyboard,East,Charlie,8,1912.42,15299.39
+2023-05-18,Mouse,East,Charlie,3,271.97,815.92
+2023-07-24,Hard Drive,East,Diana,8,1609.8,12878.43
+2023-11-29,Keyboard,North,Bob,1,1964.06,1964.06
+2023-03-23,Mouse,West,Eve,8,1614.42,12915.33
+2023-12-14,Hard Drive,South,Eve,7,1569.37,10985.59
+2023-11-10,Laptop,South,Diana,8,270.23,2161.82
+2023-07-30,Hard Drive,North,Alice,5,1327.2,6635.99
+2023-01-07,Monitor,East,Eve,9,1392.07,12528.64
+2023-11-13,Mouse,West,Frank,4,989.76,3959.05
+2023-12-06,USB Cable,South,Eve,10,156.4,1564.04
+2023-11-26,Keyboard,West,Diana,3,195.99,587.96
+2023-09-09,Webcam,South,Charlie,5,148.18,740.92
+2023-04-25,USB Cable,West,Bob,2,945.23,1890.47
+2023-10-21,Hard Drive,North,Diana,8,666.32,5330.56
+2023-09-12,Laptop,North,Diana,7,119.87,839.11
+2023-10-09,Laptop,North,Eve,10,1293.2,12931.99
+2023-09-18,Monitor,West,Charlie,6,1659.36,9956.14
+2023-04-25,Hard Drive,East,Eve,10,1219.9,12199.05
+2023-12-03,Webcam,West,Alice,2,1530.67,3061.35
+2023-04-24,Laptop,East,Charlie,5,1118.0,5589.98
+2023-07-11,Mouse,North,Bob,8,323.88,2591.01
+2023-07-29,Mouse,East,Eve,4,415.71,1662.84
+2023-07-21,Monitor,West,Bob,6,260.14,1560.86
+2023-08-01,Laptop,North,Diana,8,1333.99,10671.92
+2023-09-16,Keyboard,West,Alice,9,1485.62,13370.55
+2023-10-11,USB Cable,West,Eve,3,1399.04,4197.13
+2023-03-30,Keyboard,North,Diana,10,1232.01,12320.14
+2023-06-14,USB Cable,West,Eve,4,583.51,2334.05
+2023-06-25,Headphones,West,Bob,3,854.85,2564.56
+2023-12-25,Headphones,East,Frank,9,1283.54,11551.84
+2023-04-13,Monitor,East,Frank,6,1846.32,11077.94
+2023-03-09,Keyboard,East,Frank,2,1533.51,3067.02
+2023-10-15,Hard Drive,West,Frank,9,607.56,5468.04
+2023-08-05,Laptop,North,Alice,7,333.39,2333.71
+2023-12-10,Laptop,South,Charlie,3,1967.89,5903.66
+2023-12-16,Headphones,South,Alice,5,447.8,2239.01
+2023-10-05,Laptop,East,Diana,2,1251.41,2502.82
+2023-12-12,Monitor,West,Bob,9,1579.4,14214.59
+2023-12-23,Headphones,North,Diana,7,862.3,6036.13
+2023-12-17,Webcam,North,Alice,5,446.02,2230.1
+2023-08-15,Monitor,East,Eve,9,1489.98,13409.8
+2023-04-11,Monitor,East,Diana,3,1967.73,5903.2
+2023-02-08,Keyboard,South,Frank,9,282.74,2544.66
+2023-01-21,USB Cable,East,Eve,5,303.63,1518.15
+2023-10-27,Headphones,North,Charlie,8,1433.89,11471.15
+2023-03-21,Laptop,South,Charlie,10,149.17,1491.68
+2023-11-17,Headphones,West,Eve,9,748.27,6734.4
+2023-12-29,Webcam,South,Bob,9,182.94,1646.5
+2023-09-16,Keyboard,West,Eve,9,836.66,7529.97
+2023-06-28,Monitor,South,Frank,6,695.58,4173.48
+2023-05-31,Monitor,West,Eve,1,273.71,273.71
+2023-06-27,Hard Drive,South,Frank,10,1841.28,18412.84
+2023-05-05,Laptop,East,Diana,2,802.46,1604.92
+2023-10-04,Headphones,North,Eve,6,1052.9,6317.42
+2023-09-18,Hard Drive,West,Alice,5,1801.65,9008.25
+2023-04-09,Webcam,North,Alice,3,1944.68,5834.03
+2023-10-03,Laptop,North,Bob,4,1736.65,6946.62
+2023-08-06,Mouse,South,Eve,7,1310.79,9175.56
+2023-02-06,Keyboard,North,Diana,6,123.88,743.27
+2023-02-07,Laptop,South,Charlie,9,187.36,1686.26
+2023-04-27,Headphones,West,Diana,8,1278.92,10231.39
+2023-08-10,Webcam,North,Diana,2,1092.93,2185.85
+2023-11-25,Mouse,North,Frank,2,747.52,1495.03
+2023-09-15,Mouse,East,Frank,5,1232.8,6164.02
+2023-05-25,Hard Drive,West,Diana,1,974.28,974.28
+2023-10-01,Monitor,South,Frank,7,1603.7,11225.92
+2023-10-07,Headphones,South,Charlie,6,1916.91,11501.48
+2023-01-06,Keyboard,North,Alice,1,1166.8,1166.8
+2023-07-21,Mouse,East,Bob,6,462.89,2777.32
+2023-11-27,Keyboard,South,Bob,4,1252.93,5011.7
+2023-05-10,Monitor,North,Bob,10,1711.89,17118.9
+2023-10-09,Hard Drive,North,Charlie,2,538.84,1077.68
+2023-04-12,Hard Drive,East,Charlie,3,1359.03,4077.08
+2023-05-01,Mouse,East,Eve,2,1805.23,3610.46
+2023-06-12,Hard Drive,West,Charlie,10,1335.87,13358.73
+2023-12-22,Keyboard,East,Charlie,7,378.85,2651.93
+2023-06-10,Monitor,South,Frank,7,589.53,4126.68
+2023-07-04,Keyboard,East,Diana,8,918.45,7347.58
+2023-06-06,Hard Drive,North,Bob,10,209.85,2098.49
+2023-05-24,Keyboard,South,Charlie,2,1468.48,2936.96
+2023-01-10,Laptop,West,Eve,4,1817.29,7269.17
+2023-10-10,Headphones,West,Frank,3,763.35,2290.04
+2023-04-25,Headphones,South,Diana,9,1045.3,9407.73
+2023-07-23,Webcam,North,Frank,4,1703.56,6814.26
+2023-11-11,Keyboard,South,Diana,3,399.33,1198.0
+2023-10-17,Keyboard,West,Charlie,1,476.7,476.7
+2023-09-07,Monitor,North,Charlie,6,506.34,3038.02
+2023-12-09,Monitor,East,Diana,8,1839.91,14719.27
+2023-01-24,Laptop,East,Alice,9,1285.46,11569.1
+2023-05-21,Headphones,South,Diana,7,762.33,5336.3
+2023-12-01,Mouse,East,Diana,4,1056.92,4227.7
+2023-06-30,Webcam,West,Diana,10,62.87,628.65
+2023-03-13,Hard Drive,South,Bob,2,1053.36,2106.71
+2023-05-24,Monitor,South,Bob,3,756.33,2269.0
+2023-03-02,Monitor,West,Charlie,2,988.96,1977.91
+2023-09-03,Hard Drive,South,Eve,3,1312.16,3936.47
+2023-07-30,Laptop,South,Alice,3,1168.3,3504.9
+2023-03-24,Keyboard,North,Eve,3,159.03,477.09
+2023-05-13,Keyboard,West,Eve,10,1293.36,12933.64
+2023-12-05,Headphones,North,Bob,8,1232.73,9861.8
+2023-08-30,Hard Drive,South,Bob,7,1221.64,8551.45
+2023-10-26,Keyboard,East,Bob,6,1848.59,11091.52
+2023-11-02,Mouse,South,Diana,7,307.82,2154.71
+2023-01-09,Monitor,West,Bob,10,237.78,2377.82
+2023-09-01,Laptop,North,Alice,8,1335.82,10686.52
+2023-11-05,Laptop,West,Eve,7,772.24,5405.65
+2023-01-23,USB Cable,South,Diana,7,733.51,5134.57
+2023-12-23,Mouse,West,Bob,5,980.43,4902.13
+2023-04-30,Mouse,East,Eve,9,846.86,7621.75
+2023-04-07,Laptop,North,Eve,9,279.77,2517.89
+2023-01-04,USB Cable,South,Frank,6,847.25,5083.49
+2023-02-24,Keyboard,West,Frank,10,544.58,5445.84
+2023-10-02,USB Cable,East,Eve,5,1984.01,9920.04
+2023-07-23,Monitor,West,Eve,9,990.81,8917.31
+2023-07-09,Hard Drive,East,Charlie,10,721.49,7214.95
+2023-12-28,USB Cable,South,Frank,2,1508.24,3016.48
+2023-08-17,Keyboard,North,Bob,9,831.09,7479.84
+2023-06-23,Laptop,South,Diana,1,1618.52,1618.52
+2023-03-16,Hard Drive,West,Alice,2,563.03,1126.06
+2023-07-09,Mouse,North,Frank,7,1864.84,13053.85
+2023-07-25,Headphones,North,Bob,8,906.0,7247.96
+2023-04-14,Headphones,South,Alice,10,1045.57,10455.68
+2023-12-24,Monitor,South,Frank,1,751.49,751.49
+2023-12-02,Laptop,South,Alice,5,1570.36,7851.81
+2023-06-30,USB Cable,West,Eve,4,1059.6,4238.39
+2023-12-27,Mouse,North,Eve,5,1465.97,7329.85
+2023-10-14,Webcam,East,Charlie,4,1232.41,4929.63
+2023-04-10,Hard Drive,West,Eve,1,559.16,559.16
+2023-07-28,Mouse,North,Eve,5,712.93,3564.67
+2023-03-01,Headphones,East,Frank,8,1933.81,15470.47
+2023-10-16,Hard Drive,South,Charlie,8,1379.11,11032.88
+2023-10-28,Laptop,West,Alice,5,181.73,908.65
+2023-11-21,Monitor,South,Charlie,7,1913.12,13391.83
+2023-09-22,Laptop,East,Bob,5,231.37,1156.84
+2023-12-11,Webcam,North,Eve,3,979.28,2937.85
+2023-07-01,Monitor,East,Bob,4,1023.05,4092.19
+2023-04-13,Monitor,South,Charlie,4,496.95,1987.82
+2023-05-08,Webcam,South,Alice,2,1844.37,3688.73
+2023-12-13,Hard Drive,North,Eve,1,1703.62,1703.62
+2023-07-10,Webcam,West,Eve,5,1007.07,5035.35
+2023-09-19,Headphones,West,Bob,10,300.08,3000.8
+2023-09-27,USB Cable,West,Eve,1,1029.83,1029.83
+2023-07-21,Keyboard,West,Alice,9,947.14,8524.24
+2023-12-19,Laptop,North,Frank,4,789.88,3159.54
+2023-02-21,Webcam,East,Eve,5,414.95,2074.74
+2023-05-15,Monitor,East,Diana,10,719.04,7190.38
+2023-04-05,Hard Drive,West,Bob,7,1416.39,9914.73
+2023-07-10,Webcam,West,Charlie,8,400.78,3206.27
+2023-03-09,Monitor,North,Frank,5,1617.97,8089.85
+2023-10-12,USB Cable,West,Bob,3,1610.07,4830.22
+2023-03-18,Hard Drive,North,Bob,7,1024.22,7169.51
+2023-11-19,Webcam,West,Charlie,5,1146.17,5730.85
+2023-10-18,Laptop,West,Alice,3,167.07,501.21
+2023-05-11,Hard Drive,North,Diana,6,556.55,3339.3
+2023-07-04,Headphones,East,Alice,7,286.41,2004.89
+2023-12-14,Monitor,South,Charlie,6,683.93,4103.56
+2023-09-19,Hard Drive,West,Alice,7,1246.64,8726.51
+2023-08-26,Keyboard,South,Frank,6,872.54,5235.25
+2023-11-10,USB Cable,North,Alice,3,720.07,2160.21
+2023-06-10,Webcam,East,Frank,5,1230.5,6152.5
+2023-07-22,Headphones,West,Charlie,10,1065.82,10658.25
+2023-08-19,USB Cable,South,Bob,1,293.83,293.83
+2023-05-01,Headphones,North,Bob,3,824.24,2472.72
+2023-02-18,Mouse,West,Eve,1,101.41,101.41
+2023-07-23,Mouse,North,Charlie,10,352.79,3527.85
+2023-12-02,USB Cable,East,Bob,4,1488.31,5953.23
+2023-08-15,Keyboard,South,Eve,3,105.71,317.14
+2023-12-06,Webcam,East,Diana,8,1951.21,15609.71
+2023-10-04,Headphones,West,Bob,9,395.22,3556.99
+2023-11-02,Hard Drive,West,Eve,9,653.84,5884.56
+2023-06-27,Hard Drive,South,Alice,8,650.34,5202.74
+2023-07-31,Headphones,South,Charlie,1,50.18,50.18
+2023-03-11,Webcam,East,Diana,9,66.22,595.97
+2023-09-09,Hard Drive,East,Alice,7,1606.03,11242.22
+2023-11-02,Monitor,North,Eve,6,417.71,2506.28
+2023-10-15,USB Cable,West,Bob,3,1444.13,4332.39
+2023-11-27,USB Cable,West,Bob,5,204.46,1022.29
+2023-11-17,Monitor,East,Charlie,9,1627.18,14644.59
+2023-07-31,Monitor,North,Bob,3,614.71,1844.13
+2023-11-23,Hard Drive,West,Charlie,10,1009.39,10093.92
+2023-06-14,Laptop,South,Alice,9,93.16,838.4
+2023-02-22,Headphones,East,Bob,8,1467.86,11742.87
+2023-04-30,Mouse,South,Alice,8,473.52,3788.13
+2023-08-04,Headphones,West,Charlie,8,1409.02,11272.18
+2023-01-17,Webcam,North,Bob,1,569.68,569.68
+2023-07-20,Mouse,West,Bob,4,1796.61,7186.45
+2023-05-09,USB Cable,North,Alice,4,800.36,3201.42
+2023-08-15,Monitor,North,Bob,8,1483.88,11871.04
+2023-02-18,Monitor,West,Diana,5,1875.62,9378.1
+2023-03-23,Laptop,North,Charlie,8,1295.11,10360.91
+2023-04-12,Webcam,North,Frank,4,1947.88,7791.54
+2023-05-01,USB Cable,East,Alice,3,1599.06,4797.18
+2023-10-27,Mouse,West,Bob,1,1939.23,1939.23
+2023-10-25,Hard Drive,South,Charlie,2,535.01,1070.02
+2023-09-13,Mouse,East,Frank,1,166.56,166.56
+2023-11-27,Keyboard,North,Bob,8,503.72,4029.72
+2023-10-13,Webcam,West,Frank,4,91.64,366.55
+2023-07-13,Webcam,South,Charlie,1,996.34,996.34
+2023-08-13,Headphones,West,Bob,10,413.92,4139.22
+2023-06-28,Webcam,West,Charlie,10,1833.22,18332.24
+2023-10-11,Keyboard,North,Eve,3,926.3,2778.9
+2023-05-15,Webcam,West,Alice,9,789.13,7102.21
+2023-04-05,Laptop,East,Eve,4,675.35,2701.41
+2023-02-02,USB Cable,South,Eve,8,1543.18,12345.45
+2023-03-20,Headphones,East,Diana,6,265.41,1592.43
+2023-09-25,Mouse,North,Bob,3,1753.31,5259.93
+2023-04-14,Mouse,West,Bob,2,112.04,224.09
+2023-11-25,USB Cable,West,Eve,10,1417.56,14175.62
+2023-05-12,Laptop,East,Bob,10,1449.8,14497.98
+2023-01-07,Monitor,West,Alice,8,1611.99,12895.91
+2023-02-01,Webcam,West,Charlie,1,1656.1,1656.1
+2023-05-17,Laptop,North,Charlie,2,1891.98,3783.95
+2023-09-23,Mouse,North,Frank,4,1086.74,4346.96
+2023-04-08,Monitor,South,Eve,3,1138.93,3416.78
+2023-10-13,USB Cable,North,Frank,10,748.03,7480.29
+2023-08-23,USB Cable,North,Bob,3,1122.43,3367.3
+2023-09-16,Webcam,South,Eve,10,913.87,9138.74
+2023-06-30,Webcam,East,Charlie,7,1540.16,10781.12
+2023-08-09,Webcam,South,Eve,9,467.16,4204.44
+2023-10-09,Headphones,East,Diana,8,1921.66,15373.26
+2023-01-01,Laptop,East,Eve,1,1059.34,1059.34
+2023-06-04,Laptop,East,Bob,4,1718.65,6874.62
+2023-01-12,Headphones,South,Alice,1,947.72,947.72
+2023-03-21,Keyboard,East,Charlie,10,537.22,5372.21
+2023-05-12,Headphones,North,Eve,7,1159.68,8117.74
+2023-04-22,Mouse,East,Diana,3,1002.14,3006.42
+2023-12-20,Mouse,East,Alice,10,794.01,7940.15
+2023-01-29,Webcam,East,Diana,7,1863.98,13047.86
+2023-03-03,Monitor,North,Frank,7,155.55,1088.85
+2023-09-26,Laptop,East,Eve,10,341.68,3416.81
+2023-09-15,Monitor,South,Alice,7,1943.53,13604.7
+2023-11-01,Mouse,South,Diana,5,1583.42,7917.09
+2023-03-17,Keyboard,East,Alice,8,1164.31,9314.47
+2023-01-26,USB Cable,East,Alice,7,1028.56,7199.89
+2023-12-24,Keyboard,South,Diana,9,436.31,3926.8
+2023-07-22,Monitor,South,Bob,2,569.2,1138.4
+2023-08-09,Webcam,North,Alice,7,875.9,6131.33
+2023-06-28,Monitor,East,Charlie,10,1328.05,13280.49
+2023-06-06,Keyboard,East,Eve,8,1265.21,10121.64
+2023-08-14,Laptop,South,Bob,6,354.18,2125.1
+2023-02-13,Mouse,North,Bob,10,1857.12,18571.23
+2023-05-28,Laptop,East,Frank,2,644.98,1289.96
+2023-08-30,Laptop,East,Bob,9,463.16,4168.41
+2023-10-07,Headphones,West,Eve,3,1405.39,4216.17
+2023-12-09,Laptop,West,Eve,9,134.79,1213.11
+2023-03-29,Laptop,East,Bob,10,579.0,5789.99
+2023-08-27,Laptop,North,Diana,5,1342.81,6714.07
+2023-12-04,Webcam,North,Alice,5,1741.45,8707.25
+2023-11-29,USB Cable,South,Diana,9,1954.39,17589.54
+2023-02-20,Webcam,West,Eve,9,221.64,1994.76
+2023-04-12,Hard Drive,North,Alice,4,1848.43,7393.71
+2023-06-06,Webcam,West,Diana,3,85.83,257.48
+2023-12-17,Webcam,East,Frank,5,510.6,2553.0
+2023-09-14,Headphones,North,Frank,5,1763.42,8817.1
+2023-01-16,Headphones,South,Bob,6,1799.49,10796.95
+2023-12-03,Keyboard,North,Frank,7,1065.4,7457.8
+2023-12-14,Monitor,West,Bob,10,347.86,3478.61
+2023-06-09,Webcam,West,Eve,3,453.18,1359.53
+2023-03-12,Monitor,South,Charlie,9,1823.65,16412.83
+2023-08-09,Keyboard,South,Charlie,2,1136.81,2273.63
+2023-03-02,Keyboard,East,Bob,1,1542.6,1542.6
+2023-07-31,USB Cable,East,Diana,5,346.32,1731.58
+2023-04-07,Mouse,South,Bob,1,1536.77,1536.77
+2023-11-10,Headphones,South,Eve,4,500.28,2001.12
+2023-01-14,Webcam,North,Frank,8,311.47,2491.75
+2023-11-06,Hard Drive,East,Bob,7,1008.32,7058.23
+2023-03-12,Keyboard,South,Bob,1,846.75,846.75
+2023-01-08,Headphones,West,Bob,4,1527.66,6110.66
+2023-02-03,Keyboard,West,Eve,8,1391.33,11130.66
+2023-08-23,Monitor,West,Diana,1,1235.46,1235.46
+2023-07-14,Webcam,West,Eve,10,1207.92,12079.21
+2023-09-26,Laptop,North,Diana,8,1662.67,13301.36
+2023-01-22,Monitor,West,Frank,1,1137.52,1137.52
+2023-09-22,Laptop,South,Charlie,8,826.18,6609.42
+2023-06-05,Headphones,West,Bob,7,624.12,4368.83
+2023-01-28,Keyboard,West,Frank,8,226.36,1810.88
+2023-09-14,Mouse,South,Eve,9,313.85,2824.63
+2023-07-31,Webcam,West,Alice,3,934.68,2804.03
+2023-12-31,Monitor,West,Alice,5,681.95,3409.73
+2023-11-29,Keyboard,North,Alice,2,1427.14,2854.28
+2023-11-21,Webcam,North,Eve,7,1467.4,10271.83
+2023-09-19,Keyboard,West,Eve,7,135.62,949.32
+2023-03-29,Webcam,South,Bob,3,398.79,1196.37
+2023-12-31,Laptop,West,Charlie,5,1473.82,7369.08
+2023-08-17,Headphones,South,Alice,3,1922.85,5768.54
+2023-01-02,Headphones,North,Diana,8,1718.05,13744.41
+2023-10-06,Laptop,West,Bob,4,1198.28,4793.13
+2023-09-01,Hard Drive,West,Diana,2,1222.37,2444.74
+2023-01-04,Monitor,East,Eve,9,1649.24,14843.13
+2023-04-17,Laptop,South,Bob,1,1323.89,1323.89
+2023-01-19,Keyboard,North,Frank,10,1684.13,16841.28
+2023-06-02,Webcam,North,Alice,2,863.07,1726.13
+2023-04-02,Keyboard,East,Eve,10,1165.95,11659.51
+2023-10-15,Keyboard,West,Frank,10,752.37,7523.68
+2023-01-19,Mouse,East,Charlie,6,1800.18,10801.1
+2023-02-04,USB Cable,North,Charlie,8,312.36,2498.91
+2023-12-22,Headphones,East,Eve,7,1073.06,7511.42
+2023-12-23,Monitor,North,Alice,10,1472.97,14729.71
+2023-11-19,Mouse,West,Frank,10,1871.09,18710.89
+2023-12-28,Headphones,West,Eve,6,556.34,3338.02
+2023-10-22,Webcam,South,Eve,10,1017.97,10179.74
+2023-11-20,Hard Drive,West,Bob,10,503.81,5038.07
+2023-05-29,Monitor,North,Alice,1,956.53,956.53
+2023-03-02,Monitor,West,Diana,1,700.89,700.89
+2023-10-14,Monitor,North,Frank,4,1395.53,5582.13
+2023-05-11,Mouse,East,Charlie,9,1122.49,10102.39
+2023-01-04,Mouse,East,Charlie,7,1462.57,10238.01
+2023-11-12,Laptop,South,Bob,6,1675.96,10055.76
+2023-12-11,Hard Drive,West,Alice,3,988.92,2966.75
+2023-11-18,Hard Drive,East,Diana,7,1859.19,13014.33
+2023-01-29,Headphones,East,Eve,9,86.5,778.51
+2023-10-23,Webcam,East,Alice,3,596.9,1790.69
+2023-01-16,Webcam,West,Frank,9,1692.69,15234.22
+2023-10-20,USB Cable,South,Eve,2,1735.96,3471.92
+2023-06-07,Webcam,North,Charlie,7,219.26,1534.79
+2023-05-02,Webcam,West,Charlie,4,1073.95,4295.78
+2023-03-31,Mouse,East,Alice,4,1831.04,7324.16
+2023-08-16,Laptop,West,Eve,3,420.91,1262.74
+2023-09-05,Headphones,East,Bob,2,1653.17,3306.34
+2023-09-22,Keyboard,South,Frank,1,945.77,945.77
+2023-09-25,Mouse,North,Charlie,1,1389.75,1389.75
+2023-11-01,Mouse,East,Diana,1,251.05,251.05
+2023-12-04,Headphones,North,Eve,5,1295.76,6478.8
+2023-04-18,Webcam,South,Bob,5,589.47,2947.33
+2023-06-13,Hard Drive,North,Charlie,3,357.12,1071.35
+2023-02-28,Laptop,North,Bob,9,733.12,6598.08
+2023-06-13,Headphones,South,Frank,5,1169.46,5847.31
+2023-03-29,Mouse,East,Eve,6,1104.13,6624.75
+2023-01-26,Keyboard,North,Diana,1,256.56,256.56
+2023-01-28,Mouse,West,Diana,3,1424.12,4272.36
+2023-10-31,Hard Drive,East,Charlie,6,1644.01,9864.07
+2023-12-10,Mouse,West,Eve,3,231.19,693.56
