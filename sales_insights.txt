@@ -1,0 +1,9 @@
+=== SALES DATA INSIGHTS ===
+Total Sales: 5709391.0
+Average Sales per Transaction: 5709.391
+Total Transactions: 1000
+Best Selling Product: Keyboard
+Top Region: East
+Top Salesperson: Frank
+Most Active Month: October
+Peak Quarter: Q4
