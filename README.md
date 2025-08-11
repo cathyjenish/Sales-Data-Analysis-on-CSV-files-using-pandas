@@ -6,7 +6,7 @@ This project demonstrates basic data analysis using Python and Pandas on sales d
 ## Files Included
 - `sales_data_analysis.ipynb`: Jupyter notebook with complete analysis
 - `requirements.txt`: Python dependencies
-- `README.md`: This documentation file
+
 
 ## Features
 - **Data Loading**: Load CSV files using Pandas
@@ -80,6 +80,7 @@ To use your own CSV file:
 - matplotlib
 - seaborn
 - jupyter
+
 
 
 
