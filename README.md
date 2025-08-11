@@ -70,6 +70,9 @@ To use your own CSV file:
 - `cleaned_sales_data.csv`: Processed data
 - `sales_insights.txt`: Key insights summary
 - `analysis_report.md`: Detailed analysis report
+  
+## Screenshot
+![Sales Analysis Screenshot](output.png)
 
 ## Dependencies
 - pandas
@@ -80,3 +83,4 @@ To use your own CSV file:
 
 ## License
 This project is open source and available under the MIT License.
+
